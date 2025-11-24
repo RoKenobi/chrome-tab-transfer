@@ -26,7 +26,7 @@ Transfer tabs and tab groups between Chrome profiles locally - no cloud sync nee
 2. Enable **Developer mode** (toggle in top-right corner)
 3. Click **Load unpacked**
 4. Navigate to and select the `extension` folder
-5. You should see "Tab Transfer Tool" appear with a 📋 icon
+
 
 **Repeat this in your second Chrome profile:**
 - Click your profile icon → Add profile or switch profiles
@@ -58,7 +58,7 @@ Transfer tabs and tab groups between Chrome profiles locally - no cloud sync nee
 ### Exporting Tabs (Source Profile - e.g., "Ben")
 
 1. Open Chrome with the source profile
-2. Click the 📋 extension icon in your toolbar
+2. Click the extension icon in your toolbar
 3. You'll see a list of all open windows
 4. **Check the boxes** next to windows you want to transfer
 5. Click **Export Selected**
@@ -67,7 +67,7 @@ Transfer tabs and tab groups between Chrome profiles locally - no cloud sync nee
 ### Importing Tabs (Target Profile - e.g., "Tom")
 
 1. Switch to the target Chrome profile
-2. Click the 📋 extension icon
+2. Click the  extension icon
 3. Click **Import Tabs**
 4. A new window opens with all your tabs and groups recreated!
 
